@@ -5,6 +5,7 @@ public class Empleado {
 	private double sue;
 	private int he, afilia;
 	
+	// Constructor clase Empleado
 	public Empleado(String cod, String nom, String area, double sue, int he, int afilia) {
 		this.cod = cod;
 		this.nom = nom;
